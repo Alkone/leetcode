@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.devalkone.leetcode.Day5Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-01-08T20:46:32" hostname="MacBook-Pro-Alkone.local" time="0.025">
+  <properties/>
+  <testcase name="[1] abccccdd, 7" classname="ru.devalkone.leetcode.Day5Test" time="0.022"/>
+  <testcase name="[2] a, 1" classname="ru.devalkone.leetcode.Day5Test" time="0.0"/>
+  <testcase name="[3] civilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfieldasafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltogetherfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecratewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecrateditfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhatwesayherebutitcan…, 983" classname="ru.devalkone.leetcode.Day5Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
